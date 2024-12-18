@@ -8,3 +8,6 @@
 - Ecrire une fonction qui calcule le factoriel d’un nombre x, utiliser 10 par défaut si aucun nombre n’est spécifié.   
 
 - Ecrire une fonction qui affiche les x premiers nombres premiers 
+
+# Auteur:
+TRINH Thi Thanh Thuy
